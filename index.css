@@ -1,0 +1,100 @@
+* {
+    margin: o;
+    padding: o;
+  }
+  
+  .conteiner {
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    position: absolute;
+    width: 1920px;
+    height: 320px;
+    top: 3078px;
+    background-color: #2eaf78;
+  }
+  
+  .logopart {
+    display: flex;
+    flex-direction: row;
+  }
+  .logo {
+    position: absolute;
+    left: 140px;
+    right: 1713px;
+    top: 80px;
+    bottom: 68px;
+  }
+  
+  .text {
+    position: absolute;
+    width: 145px;
+    height: 29px;
+    left: 248px;
+    top: 60px;
+    font-family: "FiraGO";
+    font-style: normal;
+    font-weight: 400;
+  }
+  .lifestyle {
+    width: 145px;
+    height: 29px;
+    font-size: 24px;
+    line-height: 29px;
+    top: 60px;
+  }
+  .stayfit {
+    width: 127px;
+    height: 17px;
+    top: 89px;
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .sakontaqto {
+    position: absolute;
+    width: 427px;
+    height: 29px;
+    left: 528px;
+    top: 60px;
+    font-family: "FiraGO";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .social {
+    position: absolute;
+    width: 254px;
+    height: 29px;
+    left: 1146px;
+    top: 60px;
+    font-family: "FiraGO";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .icons {
+    justify-content: space-evenly;
+    margin-left: 30px;
+    align-items: center;
+    margin-left: 20px;
+  }
+  
+  .wesebi {
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 1536px;
+    top: 60px;
+    font-family: "FiraGO";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
